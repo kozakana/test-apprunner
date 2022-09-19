@@ -4,3 +4,4 @@ spyder==5.3.3
 pytest==7.1.3
 pathlib==1.0.1
 ruamel.yaml==0.17.21
+gunicorn==20.1.0
